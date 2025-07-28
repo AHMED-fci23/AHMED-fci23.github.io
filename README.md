@@ -30,7 +30,6 @@
 - Problem Solving  
 - Time Management  
 - Communication
-## 📫 تواصل معايا
 ###  Coffee Machine (Python)  
 A console-based coffee machine simulator where users can select their drink (e.g., espresso, latte). Each drink requires specific ingredients (milk, water, coffee), and the machine checks availability before processing the order and payment.  
 > **Key Features:**  
@@ -39,7 +38,7 @@ A console-based coffee machine simulator where users can select their drink (e.g
 > - Real-world simulation with resource tracking and payment logic
 
 
-
+## 📫 تواصل معايا
 - 📧 ae4668868@gmail.com.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-elsayed-09b965376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - 💻 [GitHub](https://github.com/AHMED-fci23)
