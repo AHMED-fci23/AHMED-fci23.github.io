@@ -27,7 +27,7 @@
 
 
 - 📧 ae4668868@gmail.com.com  
-- 💼 [LinkedIn](\https://www.linkedin.com/in/ahmed-elsayed-09b965376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-elsayed-09b965376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - 💻 [GitHub](https://github.com/AHMED-fci23)
 
 ---
