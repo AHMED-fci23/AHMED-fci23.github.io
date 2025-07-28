@@ -13,17 +13,31 @@
 موقعي الشخصي لعرض نبذة عني ومشاريعي.  
 🔗 [شاهد الموقع](https://ahmed-fci23.github.io)
 
+##  Education
 
-## 🛠️ Skills
+- **Faculty of Computer and Information Science**, Zagazig University  
+  *Student since 2023*
 
-- 💻 HTML5 / CSS3 / Flexbox / Grid  
-- 🎨 Responsive Web Design  
-- ⚙️ JavaScript (ES6+)  
-- ⚛️ React.js (basics & components)  
-- 🧰 Git & GitHub  
-- 🖼️ Basic Photoshop for assets/images  
-- 🌐 Deploying with GitHub Pages
+- **Courses & Trainings:**
+  - Python Programming Course – National Telecommunication Institute (NTI)
+
+
+**Technical Skills**
+- Programming Languages: C++, Python
+
+**Soft Skills**
+- Teamwork  
+- Problem Solving  
+- Time Management  
+- Communication
 ## 📫 تواصل معايا
+###  Coffee Machine (Python)  
+A console-based coffee machine simulator where users can select their drink (e.g., espresso, latte). Each drink requires specific ingredients (milk, water, coffee), and the machine checks availability before processing the order and payment.  
+> **Key Features:**  
+> - Input validation to ensure user provides correct values  
+> - Modular design using multiple functions and files  
+> - Real-world simulation with resource tracking and payment logic
+
 
 
 - 📧 ae4668868@gmail.com.com  
